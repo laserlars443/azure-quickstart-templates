@@ -26,4 +26,4 @@ This template will deploy a new VM (along with a new VNet and Load Balancer) and
 
 Click the button below to deploy
 
-[![Deploy To Azure](https://github.com/laserlars443/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%laserlars443%azure-quickstart-templates%master%application-workloads%active-directory%active-directory-new-domain%azuredeploy.json)
+[![Deploy To Azure](https://github.com/laserlars443/azure-quickstart-templates/blob/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2raw.githubusercontent.com%laserlars443%azure-quickstart-templates%master%application-workloads%active-directory%active-directory-new-domain%azuredeploy.json)
