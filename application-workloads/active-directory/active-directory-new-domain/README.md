@@ -26,6 +26,6 @@ This template will deploy a new VM (along with a new VNet and Load Balancer) and
 
 Click the button below to deploy
 
-[![Deploy To Azure](https://github.com/laserlars443/azure-quickstart-templates/blob/a091f0a0a70aac843e65f655ba2a661eda4a74df/application-workloads/active-directory/active-directory-new-domain/azuredeploy.json)
+[![Deploy To Azure](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/laserlars443/azure-quickstart-templates/blob/a091f0a0a70aac843e65f655ba2a661eda4a74df/application-workloads/active-directory/active-directory-new-domain/azuredeploy.json)
 
 `Tags: Microsoft.Network/publicIPAddresses, Microsoft.Compute/availabilitySets, Microsoft.Resources/deployments, Microsoft.Network/loadBalancers, Microsoft.Network/networkInterfaces, Microsoft.Compute/virtualMachines, extensions, DSC, Microsoft.Network/virtualNetworks`
